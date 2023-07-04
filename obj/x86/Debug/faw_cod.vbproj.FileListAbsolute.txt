@@ -1,0 +1,59 @@
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\bin\Debug\faw_cod.exe
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\bin\Debug\faw_cod.pdb
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\bin\Debug\faw_cod.xml
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\faw_cod.vbproj.GenerateResource.Cache
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\faw_cod.exe
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\faw_cod.xml
+C:\Users\teto\documents\visual studio 2010\Projects\faw_cod\faw_cod\obj\x86\Debug\faw_cod.pdb
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\faw_cod.exe
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\faw_cod.xml
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\faw_cod.pdb
+C:\Users\DELL\Desktop\faw_cod\bin\Debug\faw_cod.exe
+C:\Users\DELL\Desktop\faw_cod\bin\Debug\faw_cod.pdb
+C:\Users\DELL\Desktop\faw_cod\bin\Debug\faw_cod.xml
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\ACER\Desktop\faw_cod\bin\Debug\faw_cod.exe
+C:\Users\ACER\Desktop\faw_cod\bin\Debug\faw_cod.pdb
+C:\Users\ACER\Desktop\faw_cod\bin\Debug\faw_cod.xml
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\faw_cod.exe
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\faw_cod.xml
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\faw_cod.pdb
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\ACER\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\TROY\Desktop\faw_cod\bin\Debug\faw_cod.exe.config
+C:\Users\TROY\Desktop\faw_cod\bin\Debug\faw_cod.exe
+C:\Users\TROY\Desktop\faw_cod\bin\Debug\faw_cod.pdb
+C:\Users\TROY\Desktop\faw_cod\bin\Debug\faw_cod.xml
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.AssemblyReference.cache
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.SuggestedBindingRedirects.cache
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.GenerateResource.cache
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.vbproj.CoreCompileInputs.cache
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.exe
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.xml
+C:\Users\TROY\Desktop\faw_cod\obj\x86\Debug\faw_cod.pdb
